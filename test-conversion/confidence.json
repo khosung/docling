@@ -1,0 +1,192 @@
+{
+  "parse_score": 1.0,
+  "layout_score": 0.9363191908393602,
+  "table_score": NaN,
+  "ocr_score": NaN,
+  "pages": {
+    "1": {
+      "parse_score": 1.0,
+      "layout_score": 0.8141410499811172,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "good",
+      "mean_score": 0.9070705249905586,
+      "low_score": 0.8234339974820614
+    },
+    "2": {
+      "parse_score": 1.0,
+      "layout_score": 0.9365245550870895,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "excellent",
+      "mean_score": 0.9682622775435448,
+      "low_score": 0.9396983273327351
+    },
+    "3": {
+      "parse_score": 1.0,
+      "layout_score": 0.8862285834771616,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "good",
+      "mean_score": 0.9431142917385809,
+      "low_score": 0.8919171543033035
+    },
+    "4": {
+      "parse_score": 1.0,
+      "layout_score": 0.9727258357134733,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "excellent",
+      "mean_score": 0.9863629178567366,
+      "low_score": 0.9740895439277996
+    },
+    "5": {
+      "parse_score": 1.0,
+      "layout_score": 0.9477369359561375,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "excellent",
+      "mean_score": 0.9738684679780687,
+      "low_score": 0.9503500891583306
+    },
+    "6": {
+      "parse_score": 1.0,
+      "layout_score": 0.9788547307252884,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "excellent",
+      "mean_score": 0.9894273653626442,
+      "low_score": 0.979911994189024
+    },
+    "7": {
+      "parse_score": 1.0,
+      "layout_score": 0.9797762557864189,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "excellent",
+      "mean_score": 0.9898881278932095,
+      "low_score": 0.980787442997098
+    },
+    "8": {
+      "parse_score": 1.0,
+      "layout_score": 0.9407488773850834,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "excellent",
+      "mean_score": 0.9703744386925417,
+      "low_score": 0.9437114335158292
+    },
+    "9": {
+      "parse_score": 1.0,
+      "layout_score": 0.9721708960003324,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "excellent",
+      "mean_score": 0.9860854480001662,
+      "low_score": 0.9735623512003158
+    },
+    "10": {
+      "parse_score": 1.0,
+      "layout_score": 0.9738841156164805,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "excellent",
+      "mean_score": 0.9869420578082402,
+      "low_score": 0.9751899098356565
+    },
+    "11": {
+      "parse_score": 1.0,
+      "layout_score": 0.968183716138204,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "excellent",
+      "mean_score": 0.984091858069102,
+      "low_score": 0.9697745303312938
+    },
+    "12": {
+      "parse_score": 1.0,
+      "layout_score": 0.9111956570829663,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "excellent",
+      "mean_score": 0.9555978285414832,
+      "low_score": 0.915635874228818
+    },
+    "13": {
+      "parse_score": 1.0,
+      "layout_score": 0.9338877472010526,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "excellent",
+      "mean_score": 0.9669438736005262,
+      "low_score": 0.9371933598409999
+    },
+    "14": {
+      "parse_score": 1.0,
+      "layout_score": 0.9123997241258621,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "excellent",
+      "mean_score": 0.9561998620629311,
+      "low_score": 0.916779737919569
+    },
+    "15": {
+      "parse_score": 1.0,
+      "layout_score": 0.9749546476772853,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "excellent",
+      "mean_score": 0.9874773238386427,
+      "low_score": 0.9762069152934211
+    },
+    "16": {
+      "parse_score": 1.0,
+      "layout_score": 0.9548445741335551,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "excellent",
+      "mean_score": 0.9774222870667775,
+      "low_score": 0.9571023454268773
+    },
+    "17": {
+      "parse_score": NaN,
+      "layout_score": NaN,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "unspecified",
+      "low_grade": "unspecified",
+      "mean_score": NaN,
+      "low_score": NaN
+    },
+    "18": {
+      "parse_score": 1.0,
+      "layout_score": 0.8591683421816144,
+      "table_score": NaN,
+      "ocr_score": NaN,
+      "mean_grade": "excellent",
+      "low_grade": "good",
+      "mean_score": 0.9295841710908073,
+      "low_score": 0.8662099250725337
+    }
+  },
+  "mean_grade": "excellent",
+  "low_grade": "excellent",
+  "mean_score": 0.9681595954196801,
+  "low_score": 0.9395032312973921
+}
